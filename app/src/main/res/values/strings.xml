@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Test App</string>
+    <string name="title_home">Home</string>
+    <string name="title_profile">Profile</string>
+
+    <string-array name="name_image">
+        <item>Gambar 1</item>
+        <item>Gambar 2</item>
+        <item>Gambar 3</item>
+    </string-array>
+
+    <array name="array_image">
+        <item>@drawable/kucing1</item>
+        <item>@drawable/kucing2</item>
+        <item>@drawable/kucing3</item>
+    </array>
+</resources>
